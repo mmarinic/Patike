@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Patike</string>
+    <string name="labelaNaziv">Naziv</string>
+    <string name="labelaTip">Tip</string>
+    <string name="labelaNazad">Nazad</string>
+    <string name="labelaSlika">Slika</string>
+    <string name="labelaNovi">Kreiraj nove patike</string>
+    <string name="labelaPromjeni">Promjeni patike</string>
+    <string name="labelaObrisi">Obriši patike</string>
+    <string name="labelaUslikaj">Uslikaj</string>
+    <string name="labelaOpis">Opis</string>
+    <string-array name="tip_patike">
+        <item>Muške</item>
+        <item>Ženske</item>
+        <item>Dječje</item>
+    </string-array>
+</resources>
